@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnniversaryGift</string>
+    <string name="kiss" id="@+id/kiss"><b>K</b>eep <b>I</b>t <b>S</b>hort and <b>S</b>imple</string>
+</resources>
